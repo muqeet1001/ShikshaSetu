@@ -24,7 +24,7 @@ A React Native version of the CareerCompass application - an official post-Class
 
 1. Navigate to the project directory:
 ```bash
-cd CareerCompass
+cd ShikshaSetu
 ```
 
 2. Install dependencies:
