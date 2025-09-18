@@ -1,0 +1,34 @@
+# Core dependencies for live LinkedIn fetching
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+pandas>=1.5.0
+openpyxl>=3.0.10
+
+# LinkedIn API and OAuth (optional)
+linkedin-api>=2.0.0
+python-dotenv>=0.19.0
+
+# Web scraping (optional - only if using Selenium)
+selenium>=4.0.0
+lxml>=4.9.0
+
+# Data processing
+numpy>=1.21.0
+# sqlite3  # Built-in with Python
+
+# Logging and utilities
+python-dateutil>=2.8.2
+urllib3>=1.26.0
+
+# Live API dependencies (REQUIRED for real data)
+# Hunter.io API - No specific package needed, uses requests
+# Scraping APIs - No specific packages needed, uses requests
+
+# Optional dependencies for advanced features
+google-api-python-client>=2.0.0  # For Google Search API
+chromedriver-autoinstaller>=0.4.0  # Auto-install ChromeDriver
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0

@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Student 1",
+    "college": "HKB College of Engineering",
+    "degree": "Computer Science",
+    "graduation_year": "2023",
+    "location": "Bangalore, India",
+    "headline": "Student at HKB College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student1",
+    "connections": 100,
+    "skills": [
+      "Python",
+      "Java",
+      "Data Science"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 1",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 2",
+    "college": "HKB College of Engineering",
+    "degree": "Mechanical Engineering",
+    "graduation_year": "2024",
+    "location": "Mumbai, India",
+    "headline": "Student at HKB College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student2",
+    "connections": 125,
+    "skills": [
+      "AutoCAD",
+      "SolidWorks",
+      "Manufacturing"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 2",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 3",
+    "college": "HKB College of Engineering",
+    "degree": "Electronics",
+    "graduation_year": "2025",
+    "location": "Delhi, India",
+    "headline": "Student at HKB College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student3",
+    "connections": 150,
+    "skills": [
+      "Circuit Design",
+      "Embedded Systems",
+      "IoT"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 3",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 4",
+    "college": "HKB College of Engineering",
+    "degree": "Civil Engineering",
+    "graduation_year": "2023",
+    "location": "Chennai, India",
+    "headline": "Student at HKB College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student4",
+    "connections": 175,
+    "skills": [
+      "Structural Analysis",
+      "Project Management",
+      "Construction"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 4",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 5",
+    "college": "HKB College of Engineering",
+    "degree": "Computer Science",
+    "graduation_year": "2024",
+    "location": "Bangalore, India",
+    "headline": "Student at HKB College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student5",
+    "connections": 200,
+    "skills": [
+      "Python",
+      "Java",
+      "Data Science"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 5",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 1",
+    "college": "RV College of Engineering",
+    "degree": "Computer Science",
+    "graduation_year": "2023",
+    "location": "Bangalore, India",
+    "headline": "Student at RV College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student1",
+    "connections": 100,
+    "skills": [
+      "Python",
+      "Java",
+      "Data Science"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 1",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 2",
+    "college": "RV College of Engineering",
+    "degree": "Mechanical Engineering",
+    "graduation_year": "2024",
+    "location": "Mumbai, India",
+    "headline": "Student at RV College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student2",
+    "connections": 125,
+    "skills": [
+      "AutoCAD",
+      "SolidWorks",
+      "Manufacturing"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 2",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 3",
+    "college": "RV College of Engineering",
+    "degree": "Electronics",
+    "graduation_year": "2025",
+    "location": "Delhi, India",
+    "headline": "Student at RV College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student3",
+    "connections": 150,
+    "skills": [
+      "Circuit Design",
+      "Embedded Systems",
+      "IoT"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 3",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 4",
+    "college": "RV College of Engineering",
+    "degree": "Civil Engineering",
+    "graduation_year": "2023",
+    "location": "Chennai, India",
+    "headline": "Student at RV College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student4",
+    "connections": 175,
+    "skills": [
+      "Structural Analysis",
+      "Project Management",
+      "Construction"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 4",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 5",
+    "college": "RV College of Engineering",
+    "degree": "Computer Science",
+    "graduation_year": "2024",
+    "location": "Bangalore, India",
+    "headline": "Student at RV College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student5",
+    "connections": 200,
+    "skills": [
+      "Python",
+      "Java",
+      "Data Science"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 5",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 1",
+    "college": "BMS College of Engineering",
+    "degree": "Computer Science",
+    "graduation_year": "2023",
+    "location": "Bangalore, India",
+    "headline": "Student at BMS College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student1",
+    "connections": 100,
+    "skills": [
+      "Python",
+      "Java",
+      "Data Science"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 1",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 2",
+    "college": "BMS College of Engineering",
+    "degree": "Mechanical Engineering",
+    "graduation_year": "2024",
+    "location": "Mumbai, India",
+    "headline": "Student at BMS College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student2",
+    "connections": 125,
+    "skills": [
+      "AutoCAD",
+      "SolidWorks",
+      "Manufacturing"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 2",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 3",
+    "college": "BMS College of Engineering",
+    "degree": "Electronics",
+    "graduation_year": "2025",
+    "location": "Delhi, India",
+    "headline": "Student at BMS College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student3",
+    "connections": 150,
+    "skills": [
+      "Circuit Design",
+      "Embedded Systems",
+      "IoT"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 3",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 4",
+    "college": "BMS College of Engineering",
+    "degree": "Civil Engineering",
+    "graduation_year": "2023",
+    "location": "Chennai, India",
+    "headline": "Student at BMS College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student4",
+    "connections": 175,
+    "skills": [
+      "Structural Analysis",
+      "Project Management",
+      "Construction"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 4",
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Student 5",
+    "college": "BMS College of Engineering",
+    "degree": "Computer Science",
+    "graduation_year": "2024",
+    "location": "Bangalore, India",
+    "headline": "Student at BMS College of Engineering | Aspiring Engineer",
+    "profile_url": "https://linkedin.com/in/student5",
+    "connections": 200,
+    "skills": [
+      "Python",
+      "Java",
+      "Data Science"
+    ],
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tech Company 5",
+        "duration": "3 months"
+      }
+    ]
+  }
+]
